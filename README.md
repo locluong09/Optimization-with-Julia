@@ -1,0 +1,1 @@
+# Implementation of optimization algorithms from the book "Algorithms for Optimization" by Mykel J. Kochenderfer and Tim A. Wheeler.
